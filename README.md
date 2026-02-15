@@ -80,16 +80,9 @@ My main interests include <b>Backend Systems</b>, <b>Mobile App Development</b>,
 ---
 
 
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalinan708&show_icons=true&locale=en" alt="bilalinan708 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalinan708&show_icons=true&locale=en&layout=compact" alt="bilalinan708 Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalinan708" alt="bilalinan708 GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalinan708&theme=dark" alt="bilalinan708 GitHub Streak" />
 </p>
